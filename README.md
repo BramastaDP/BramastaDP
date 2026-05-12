@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bramasta%20Dhuanda%20Prastiko&fontSize=40&fontAlignY=38&animation=twinkling" />
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;UI%2FUX+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,12 +28,6 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
   </a>
 </p>
 
-
-
-
-
-
-
 ---
 
 ### 📫 Let's Connect!
@@ -43,4 +37,3 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
   <a href="https://www.linkedin.com/in/bramastadhuandaprastiko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bramasta06alam3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
