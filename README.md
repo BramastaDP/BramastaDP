@@ -31,11 +31,6 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
 ---
 
 <div align="center">
-  <h3>🕹️ play games with me</h3>
-  <img src="https://raw.githubusercontent.com/vimalverma558/vimalverma558/master/pacman.gif" width="100%" alt="Pacman Animation" />
-</div>
-
----
 
 ### 📊 My GitHub Stats
 
