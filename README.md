@@ -30,6 +30,13 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
 
 ---
 
+<div align="center">
+  <h3>🕹️ play games with me</h3>
+  <img src="https://raw.githubusercontent.com/MaySreymach/MaySreymach/main/assets/pacman.gif" width="100%" />
+</div>
+
+---
+
 ### 📊 My GitHub Stats
 
 <p align="center">
