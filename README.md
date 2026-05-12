@@ -31,11 +31,20 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
 ---
 
 ### 📊 My GitHub Stats
-💡
 
 <p align="center">
   <a href="https://github.com/BramastaDP">
-    <img src="https://github-readme-stats.vercel.app/api?username=BramastaDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bramasta's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=BramastaDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bramasta's GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BramastaDP">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BramastaDP&theme=tokyonight&hide_border=true&background=0D1117" alt="Bramasta's GitHub Streak" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/BramastaDP">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BramastaDP&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bramasta's Top Languages" />
   </a>
 </p>
 
