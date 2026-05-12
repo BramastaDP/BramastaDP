@@ -14,7 +14,7 @@ I am a **Fullstack Developer** passionate about building robust, scalable web ap
 
 My ultimate goal is to grow into a technical leadership role, inspiring teams to build innovative digital solutions that solve real-world problems.
 
-- 🔭 **Currently working on:** Optimizing design-to-code handoffs and building dynamic UI components.
+- 🔭 **Currently working on:** Working as a Full Stack Engineer at Mores Strategics, optimizing design-to-code handoffs and building dynamic UI components.
 - 🌱 **Currently learning/exploring:** Advanced Next.js implementations and Python-based AI automations.
 - 👯 **Looking to collaborate on:** Full-stack projects, UI/UX challenges, and AI integrations.
 
@@ -36,4 +36,8 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
   <a href="https://portofolio-five-murex.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/bramastadhuandaprastiko"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:bramasta06alam3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BramastaDP&label=Profile%20Views&color=3B82F6&style=flat" alt="Visitor Count" />
 </p>
