@@ -28,37 +28,11 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <a href="https://github.com/BramastaDP">
-    <img src="https://github-readme-stats.vercel.app/api?username=BramastaDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bramasta's GitHub Stats" />
-  </a>
-  <a href="https://github.com/BramastaDP">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BramastaDP&theme=tokyonight&hide_border=true&background=0D1117" alt="Bramasta's GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/BramastaDP">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BramastaDP&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Bramasta's Activity Graph" />
-  </a>
-</p>
 
 
 
----
 
-### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🌾 ToPet (Toko Petani)** | Agricultural e-commerce platform designed to help rural farmers purchase supplies online efficiently, featuring a highly accessible cart system. | `PHP`, `MySQL`, `JS`, `CSS` |
-| **🛒 Pasku (Pasar Kuliah)** | A full-featured marketplace built specifically for the university student community with dynamic search and filter functionalities. | `Laravel`, `Bootstrap`, `MySQL` |
-| **🩺 MyDoctor App UI** | End-to-end UI/UX design for a health consultation application, focusing on intuitive navigation and accessibility. | `Figma` |
-| **🤖 AI Video Editor** | A Python-based automation tool leveraging AI to streamline video processing and transcription. | `Python`, `Whisper` |
 
 ---
 
