@@ -30,6 +30,17 @@ My ultimate goal is to grow into a technical leadership role, inspiring teams to
 
 ---
 
+### 📊 My GitHub Stats
+💡
+
+<p align="center">
+  <a href="https://github.com/BramastaDP">
+    <img src="https://github-readme-stats.vercel.app/api?username=BramastaDP&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bramasta's GitHub stats" />
+  </a>
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 <p align="center">
